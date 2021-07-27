@@ -1,10 +1,13 @@
 _repo: La-Rego-de-la-Montoj_65835
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Moch, Gaston
     gutenberg_agent_id: '53520'
     url: http://www.gutenberg.org/2009/agents/53520
+covers:
+- cover_type: archival
+  image_path: 65835-h/images/cover.jpg
 creator:
   author:
     agent_name: About, Edmond
@@ -23,6 +26,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Edmond_About
     - https://en.wikipedia.org/wiki/Edmond_François_Valentin_About
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65835#La-Rego-de-la-Montoj
 gutenberg_issued: '2021-07-14'
 gutenberg_type: Text
 identifiers:
