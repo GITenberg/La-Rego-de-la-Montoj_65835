@@ -1,0 +1,37 @@
+_repo: La-Rego-de-la-Montoj_65835
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Moch, Gaston
+    gutenberg_agent_id: '53520'
+    url: http://www.gutenberg.org/2009/agents/53520
+creator:
+  author:
+    agent_name: About, Edmond
+    aliases:
+    - About, Edmond François Valentin
+    - Abu, Edmond
+    - About, Edmond Francois Valentin
+    - About, E. (Edmond)
+    - Avout, Edmondos
+    - Ampou, Edmondos
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '5182'
+    url: http://www.gutenberg.org/2009/agents/5182
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Edmond_About
+    - https://en.wikipedia.org/wiki/Edmond_François_Valentin_About
+description: ''
+gutenberg_issued: '2021-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65835'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La Reĝo de la Montoj
+url: http://www.gutenberg.org/ebooks/65835
